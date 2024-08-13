@@ -1,13 +1,13 @@
 body {
   font-family: "Arial", sans-serif;
-  background-color: #282a36; /* Background color */
-  color: #f8f8f2; /* Text color */
+  background-color: #282a36;
+  color: #f8f8f2;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #44475a; /* Header background */
+  background-color: #44475a;
   padding: 20px;
   text-align: center;
 }
@@ -22,7 +22,6 @@ img {
 }
 
 nav ul {
-  list-style-type: none;
   padding: 0;
 }
 
@@ -32,7 +31,7 @@ nav ul li {
 }
 
 nav a {
-  color: #bd93f9; /* Link color */
+  color: #bd93f9;
   text-decoration: none;
 }
 
@@ -44,20 +43,20 @@ section {
   padding: 20px;
   margin: 20px;
   border-radius: 5px;
-  background-color: #44475a; /* Section background */
+  background-color: #44475a;
 }
 
 .project {
   margin-bottom: 20px;
   padding: 10px;
-  border: 1px solid #6272a4; /* Project border */
+  border: 1px solid #6272a4;
   border-radius: 5px;
 }
 
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #44475a; /* Footer background */
+  background-color: #44475a;
   position: relative;
   bottom: 0;
   width: 100%;
